@@ -13,6 +13,8 @@ public class SearchProductTest {
 	@Test
 	public void run() {
 		
+//		Hi Guys enjoying ur class???
+		
 		Reporter.log("SearchProductTest Successfully running",true);
 		Reporter.log("SearchProductTest Successfully running",true);
 
