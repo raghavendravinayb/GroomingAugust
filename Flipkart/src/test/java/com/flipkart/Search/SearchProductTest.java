@@ -1,5 +1,6 @@
 package com.flipkart.Search;
 
+import org.testng.Assert;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
@@ -17,7 +18,7 @@ public class SearchProductTest {
 		
 // Hi Guys This time I pulled then only i am pushing-- it shud work
 // 		GitHub Changes done by some other engineer
-		
+		Assert.fail();
 		Reporter.log("SearchProductTest Successfully running",true);
 		
 
