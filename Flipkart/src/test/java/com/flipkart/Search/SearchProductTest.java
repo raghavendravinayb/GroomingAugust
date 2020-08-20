@@ -15,8 +15,10 @@ public class SearchProductTest {
 		
 //		Hi Guys enjoying ur class???
 		
+// 		GitHub Changes done by some other engineer
+		
 		Reporter.log("SearchProductTest Successfully running",true);
-		Reporter.log("SearchProductTest Successfully running",true);
+		
 
 		
 		Reporter.log("HI Guys are you able to see me in Jenkins???",true);
